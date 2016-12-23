@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1475556218 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio20\main.cpp
+	<iostream>
+	"Recta.h"
+
+1475556162 c:\users\omarm\dropbox\codeblocks proyects\ejercicio20\include\recta.h
+
+1475556278 source:c:\users\omarm\dropbox\codeblocks proyects\ejercicio20\src\recta.cpp
+	"Recta.h"
+
